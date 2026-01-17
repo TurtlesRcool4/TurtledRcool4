@@ -5,12 +5,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a aspiring Cyber Security Professional who loves the travel the United States and enjoy good food, culture and vibes.
+I am a aspiring Cyber Security Professional who loves to travel the United States and enjoy good food, culture and vibes.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in life has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My experiences have fueled a strong passion for cybersecurity, and I am actively transitioning into the field with the goal of securing a Tier 1 SOC Analyst role to apply my foundational security knowledge and contribute to security operations.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
