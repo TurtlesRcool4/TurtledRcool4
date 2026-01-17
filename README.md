@@ -5,7 +5,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a aspiring Cyber Security Professional who loves to travel the United States and enjoy good food, culture and vibes.
+I am an aspiring cybersecurity professional who enjoys traveling throughout the United States, immersing myself in different cultures, and discovering great food along the way.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
